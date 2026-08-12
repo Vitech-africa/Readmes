@@ -1,5 +1,5 @@
 # Readmes
-About Vitech_africa ltd
+
 Vitech Africa Ltd 🌍
 
 Vitech Africa Ltd is an African technology and digital solutions company focused on software engineering, web & mobile development, digital transformation, business automation, API integration, AI solutions, and innovative digital products.
