@@ -1,8 +1,8 @@
-Voici une **README.md haut de gamme**, conçue pour ton profil GitHub personnel et orientée **Software Engineering, Full-Stack Development, Digital Solutions et Vitech Africa**.
+
 
 # 👋 Hi, I'm Vahid Baciseze Akonkwa Idriss
 
-### 🚀 Software Engineer • Full-Stack Developer • Digital Solutions Builder • Founder @ Vitech Africa
+### 🚀 Software Engineer • Full-Stack Developer • Digital Solutions Builder • Founder @ Vitech Africa Ltd
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=Software+Engineer;Full-Stack+Developer;Web+%26+Desktop+Application+Developer;API+%26+Payment+Integration+Specialist;Digital+Solutions+Builder;Founder+of+Vitech+Africa" alt="Typing SVG" />
@@ -334,7 +334,7 @@ If you have an idea, a technical challenge or a project that needs to be transfo
 > ### **"Don't just write code. Build solutions."**
 
 <p align="center">
-  <strong>© 2026 Vahid Baciseze Akonkwa Idriss — Vitech Africa</strong>
+  <strong>© 2026 Vahid Baciseze Akonkwa Idriss — Vitech Africa Ltd</strong>
 </p>
 
 <p align="center">
